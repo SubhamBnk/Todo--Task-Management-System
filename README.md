@@ -37,12 +37,11 @@ The Task Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript
 </div>
 
 
-# Access 
 ## Admin Access
 Email: admin@admin.com <br>
 Password: admin123
 
-My own access
+## Another login credentials
 Email: subham123@gmail.com  <br>
 Password: password
 
