@@ -28,7 +28,7 @@ etc.
 The Task Management System was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The code is fully functional and easy to modify or enhance. 
 
 # How to Run
-Download or set up any local web server that runs PHP script.
+* Download or set up any local web server that runs PHP script.
 Open the web-server database and create a new database name it "tms_db".
 Import the SQL file located in the database folder of the code.
 Copy and paste the code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
