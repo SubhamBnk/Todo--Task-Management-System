@@ -9,7 +9,10 @@
 
 
 # How the System Works
-The Task Management System users can be only created by admin users. The admin user or the Project Managers will create a new project at first along with some important details and references of the users. When creating a project, the admin or project managers must list all the employees that will handle the project's tasks. After the creation of the project, the regular employees are limited only to adding their work progress for the task of the project that they are assigned. They are also allowed to edit the data of the progress that they only submitted. Then, as the employees regularly updating the system about the progress they have done the project managers will read or scan their activities so the project manager can check or decide if the certain task is done and need to update the task status in the system. For the printable report of the system, only the admin users and project managers has an access to this function or feature of the system.
+* The Task Management System users can be only created by admin users.
+* The admin user or the Project Managers will create a new project at first along with some important details and references of the users.
+* When creating a project, the admin or project managers must list all the employees that will handle the project's tasks.
+* As the employees regularly updating the system about the progress they have done the project managers will read or scan their activities so the project manager can check or decide if the certain task is done and need to update the task status in the system. For the printable report of the system, only the admin users and project managers has an access to this function or feature of the system.
 
 # Features:
 * Login Page
