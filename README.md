@@ -23,6 +23,7 @@ Open the web-server database and create a new database name it "tms_db".
 Import the SQL file located in the database folder of the code.
 Copy and paste the code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
 Open a web browser and browse the project. E.g [http://localhost/task_management_system]
+
 Admin Access
 Email: admin@admin.com
 Password: admin123
@@ -33,4 +34,10 @@ Password: password
 
 I hope this Task Management System will help & benefit a lot.
 
-Thank YOu
+Thank You
+
+Images:
+
+<div align="center">
+  <img alt="ss1" src="./assets/ss1.png" />
+</div>
